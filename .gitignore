@@ -1,0 +1,12 @@
+node_modules/
+typings/
+dist/
+.awcache/
+release/
+.vscode/
+.tmp/
+npm-debug.log
+tsconfig.json
+package-lock.json
+.editorconfig
+.eslintrc
